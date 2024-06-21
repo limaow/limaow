@@ -1,16 +1,27 @@
-## Hi there 👋
+## I'm Matheus Reis de Lima!
 
-<!--
-**limaow/limaow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
-Here are some ideas to get you started:
+:computer: I'm Back-End Developer!
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+:house_with_garden: I’m from Brazil.
+
+:books: I’m currently studying computer science, but I also love to study economics e politics.
+
+:outbox_tray: 2025 Goals: finish my course at Unifal and start a new business.
+
+ [![li GitHub stats](https://github-readme-stats.vercel.app/api?username=limaow)](https://github.com/limaow/github-readme-stats)
+
+
+
+
+
+## About me
+
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=LINK_GIT)]([LINK_GIT](https://github.com/limaow))
+
+
+- Thanks for visiting.
+
+- Enjoy it!
